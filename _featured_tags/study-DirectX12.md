@@ -4,5 +4,5 @@ title: DirectX12
 slug: directx12
 category: study
 menu: false
-order: 2
+order: 1
 ---

@@ -4,5 +4,5 @@ title: Math
 slug: math
 category: study
 menu: false
-order: 3
+order: 2
 ---
