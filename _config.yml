@@ -132,3 +132,11 @@ sass:
   style:             compressed
 
 
+tipue_search:
+     include:
+         pages: false # 모든 페이지에 있는 구성들까지 검색하지 않게. 그냥 게시글만 검색하게.
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
